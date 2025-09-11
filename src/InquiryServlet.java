@@ -14,6 +14,9 @@ public class InquiryServlet extends HttpServlet {
 
 	public InquiryServlet(){
 		super();
+
+
+
 	}
 
 protected void doPost(HttpServletRequest request,HttpServletResponse response) throws
